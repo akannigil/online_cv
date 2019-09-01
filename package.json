@@ -1,0 +1,21 @@
+{
+  "name": "cv_backend",
+  "version": "1.0.0",
+  "description": "Backend of my CV app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "online_cv"
+  },
+  "keywords": [
+    "cv",
+    "online",
+    "nodejs",
+    "express.js"
+  ],
+  "author": "Oloudé Gildas Akanni",
+  "license": "ISC"
+}
